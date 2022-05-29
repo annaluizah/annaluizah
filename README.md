@@ -1,7 +1,7 @@
-### Hey! ✌️
+## Hey! ✌️
 
-- 🤖 Trabalho com planejamento, criação/desenvolvimento de fluxos conversacionais para chatbots e integrações com API's através da plataforma Watson (IBM)
-- 🧐 Estudando Phyton e Java.
+### 🤖 Trabalho com planejamento, criação/desenvolvimento de fluxos conversacionais para chatbots e integrações com API's através da plataforma Watson (IBM)
+### 🧐 Estudando Phyton e Java.
 
 <div align="center">
   <a href="https://github.com/annaluizah">
