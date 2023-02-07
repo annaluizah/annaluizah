@@ -2,8 +2,9 @@
 
 ####  ✌️ I'm 26;
 #### 🎮 I love to play whenever I can;
-#### 🤖 I work with planning, creation/development of conversational flows for chatbots and integrations with API's through the Watson platform (IBM);
 #### ☕️ Studying Java and C.
+#### 🤖 I work with planning, creation/development of conversational flows for chatbots and integrations with API's through the Watson platform (IBM);
+<img align="center" alt="Rafa-React" height="200" width="350" src="https://media1.giphy.com/media/HoUqhOYf5lupo1HTMK/giphy.gif?cid=ecf05e47pzuxbk8p8dq4inmkptopm27wcqm2zwb7679w3101&rid=giphy.gif&ct=g">
 
 <div align="center">
   <a href="https://github.com/annaluizah">
@@ -13,9 +14,8 @@
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
+  <img align="center" alt="Rafa-Js" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png">
 </div>
   
 ##
