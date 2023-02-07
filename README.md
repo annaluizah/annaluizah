@@ -1,9 +1,9 @@
 ## Hey!
 
-###  ✌️ I'm 26;
-### 🎮 I love to play whenever I can;
-### 🤖 I work with planning, creation/development of conversational flows for chatbots and integrations with API's through the Watson platform (IBM);
-### ☕️ Studying Java and C.
+####  ✌️ I'm 26;
+#### 🎮 I love to play whenever I can;
+#### 🤖 I work with planning, creation/development of conversational flows for chatbots and integrations with API's through the Watson platform (IBM);
+#### ☕️ Studying Java and C.
 
 <div align="center">
   <a href="https://github.com/annaluizah">
