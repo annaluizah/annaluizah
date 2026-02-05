@@ -1,8 +1,8 @@
 ## Hey!
 
-####  ✌️ I'm 28;
+####  ✌️ I'm 29;
 #### 🎮 I love to play whenever I can;
-#### ☕️ Studying Java and C.
+#### ☕️ Studying Java and JavaScript.
 #### 🤖 I work with planning, creation/development of conversational flows for chatbots and integrations with API's through the Watson platform (IBM);
 <img align="center" alt="Rafa-React" height="200" width="350" src="https://media1.giphy.com/media/HoUqhOYf5lupo1HTMK/giphy.gif?cid=ecf05e47pzuxbk8p8dq4inmkptopm27wcqm2zwb7679w3101&rid=giphy.gif&ct=g">
 
